@@ -1,0 +1,5 @@
+{
+    "cmd": ["python2.7","-u", "$file"],
+    "path": "/usr/local/bin"
+}
+
